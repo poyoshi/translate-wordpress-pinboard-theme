@@ -1,0 +1,714 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Pinboard\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-04-03 20:57+0900\n"
+"PO-Revision-Date: 2014-04-20 03:12+0900\n"
+"Last-Translator: \n"
+"Language-Team: One Designs <contact@onedesigns.com>\n"
+"Language: ja_JP\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Generator: Poedit 1.6.4\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../attachment.php:14
+msgid "Download"
+msgstr "ダウンロード"
+
+#: ../attachment.php:26 ../image.php:26 ../page.php:21 ../single.php:21
+#: ../template-content-sidebar-half.php:18 ../template-content-sidebar.php:20
+#: ../template-full-width.php:18 ../template-landing-page.php:23
+#: ../template-no-sidebars.php:18 ../template-sidebar-content-half.php:18
+#: ../template-sidebar-content.php:20
+msgid "Pages:"
+msgstr "ページ："
+
+#: ../comments.php:4
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+"このコンテンツはパスワードで保護されています。閲覧するには以下にパスワードを"
+"入力してください。"
+
+#: ../comments.php:7
+msgid "No Responses to"
+msgstr "まだコメントはありません："
+
+#: ../comments.php:7
+msgid "One Response to"
+msgstr "1 件の返信があります："
+
+#: ../comments.php:7
+msgid "% Responses to"
+msgstr "%件の返信があります："
+
+#: ../comments.php:29
+msgid "Comments are closed."
+msgstr "コメントは閉じられています。"
+
+#: ../footer.php:10
+msgid "Pinboard Theme"
+msgstr "Pinboard Theme"
+
+#: ../footer.php:11
+msgid "One Designs"
+msgstr "One Designs"
+
+#: ../footer.php:12
+msgid "WordPress"
+msgstr "WordPress"
+
+#: ../footer.php:14
+#, php-format
+msgid "Powered by %1$s by %2$s and %3$s"
+msgstr "Powered by %1$s by %2$s and %3$s"
+
+#: ../footer.php:16
+#, php-format
+msgid "Powered by %1$s by %2$s"
+msgstr "Powered by %1$s by %2$s"
+
+#: ../footer.php:18 ../footer.php:20
+#, php-format
+msgid "Powered by %1$s and %2$s"
+msgstr "Powered by %1$s and %2$s"
+
+#: ../footer.php:22 ../footer.php:24 ../footer.php:26
+#, php-format
+msgid "Powered by %1$s"
+msgstr "Powered by %1$s"
+
+#: ../functions.php:842
+msgid "There are no more posts to display."
+msgstr "表示させる投稿がありません。"
+
+#: ../functions.php:845
+msgid "Loading more posts &#8230;"
+msgstr "次の投稿を読み込み中&#8230;"
+
+#: ../functions.php:1291 ../functions.php:1299
+msgid "Page"
+msgstr "ページ"
+
+#: ../functions.php:1326
+msgid "Currently browsing"
+msgstr "今見ているページ："
+
+#: ../functions.php:1331
+msgid "Search results for"
+msgstr "検索結果"
+
+#: ../functions.php:1348
+#, php-format
+msgid "Page %d"
+msgstr "%d ページ目"
+
+#: ../functions.php:1596
+msgid "Link to full-size image"
+msgstr "フルサイズの画像へリンクします。"
+
+#: ../functions.php:1596
+msgid "pixels"
+msgstr "ピクセル"
+
+#: ../functions.php:1598
+msgid "Edit"
+msgstr "編集"
+
+#: ../functions.php:2179
+msgid "Did you like this article? Share it with your friends!"
+msgstr "この記事はいかがでしたか？気に入ったらみんなにシェアしましょう！"
+
+#: ../functions.php:2247
+msgid "Written by"
+msgstr "Written by"
+
+#: ../functions.php:2266 ../functions.php:2284
+#: ../includes/theme-options.php:161
+msgid "Previous Page"
+msgstr "前のページ"
+
+#: ../functions.php:2267 ../functions.php:2285
+#: ../includes/theme-options.php:161
+msgid "Next Page"
+msgstr "次のページ"
+
+#: ../functions.php:2270 ../includes/theme-options.php:162
+msgid "Newer Posts"
+msgstr "新しい投稿"
+
+#: ../functions.php:2271 ../includes/theme-options.php:162
+msgid "Older Posts"
+msgstr "過去の投稿"
+
+#: ../functions.php:2274 ../includes/theme-options.php:163
+msgid "Later Posts"
+msgstr "以降の記事"
+
+#: ../functions.php:2275 ../includes/theme-options.php:163
+msgid "Earlier Posts"
+msgstr "以前の記事"
+
+#: ../functions.php:2301
+msgid "Read all Articles"
+msgstr "全ての記事を読む"
+
+#: ../functions.php:2321
+msgid "Content not found"
+msgstr "コンテンツが見つかりません"
+
+#: ../functions.php:2323
+msgid "The content you are looking for could not be found."
+msgstr "お探しのコンテンツは見つかりませんでした。"
+
+#: ../functions.php:2325
+msgid ""
+"Use the information below or try to seach to find what you're looking for:"
+msgstr "以下の情報を使用するか、検索で探しているものを見つける："
+
+#: ../includes/theme-options.php:4
+msgid "Pinboard Theme Options"
+msgstr "Pinboard テーマの設定"
+
+#: ../includes/theme-options.php:4
+msgid "Theme Options"
+msgstr "テーマの設定"
+
+#: ../includes/theme-options.php:34
+msgid "Theme settings updated successfully."
+msgstr "テーマの設定が正しく更新されました。"
+
+#: ../includes/theme-options.php:41
+msgid "Save Settings"
+msgstr "設定を保存する"
+
+#: ../includes/theme-options.php:42
+msgid "Reset Defaults"
+msgstr "設定をリセットする"
+
+#: ../includes/theme-options.php:56
+msgid "General"
+msgstr "一般"
+
+#: ../includes/theme-options.php:57
+msgid "Design"
+msgstr "デザイン"
+
+#: ../includes/theme-options.php:58
+msgid "Layout"
+msgstr "レイアウト"
+
+#: ../includes/theme-options.php:59
+msgid "Typography"
+msgstr "タイポグラフィ"
+
+#: ../includes/theme-options.php:60
+msgid "SEO"
+msgstr "SEO"
+
+#: ../includes/theme-options.php:99
+msgid "Global Options"
+msgstr "全体的なオプション"
+
+#: ../includes/theme-options.php:100
+msgid "Social Media Links"
+msgstr "ソーシャルメディアのリンク"
+
+#: ../includes/theme-options.php:101 ../includes/theme-options.php:818
+msgid "Home Page"
+msgstr "トップページ"
+
+#: ../includes/theme-options.php:102
+msgid "Portfolio Page"
+msgstr "ポートフォリオページ"
+
+#: ../includes/theme-options.php:103
+msgid "Blog Pages"
+msgstr "ブログページ"
+
+#: ../includes/theme-options.php:104
+msgid "Single Posts"
+msgstr "投稿ページ"
+
+#: ../includes/theme-options.php:105
+msgid "Footer"
+msgstr "フッター"
+
+#: ../includes/theme-options.php:109
+msgid "Retina Header Image"
+msgstr "Retina ディスプレイのヘッダー画像"
+
+#: ../includes/theme-options.php:110
+msgid "Fancy Drop-down Menus"
+msgstr "ドロップダウンメニュー"
+
+#: ../includes/theme-options.php:111
+msgid "Post Thumbnails"
+msgstr "アイキャッチ"
+
+#: ../includes/theme-options.php:112
+msgid "Lightbox"
+msgstr "Lightbox"
+
+#: ../includes/theme-options.php:113
+msgid "Posts Navigation"
+msgstr "投稿のナビゲーション"
+
+#: ../includes/theme-options.php:114
+msgid "Posts Navigation Labels"
+msgstr "ナビゲーションのラベル"
+
+#: ../includes/theme-options.php:120
+msgid ""
+"Uploaded header images are HiDPI images for retina displays, downsize on "
+"normal screen devices."
+msgstr ""
+"ヘッダーの画像用にアップロードされた Retina ディスプレイ用の HiDPI 画像を、通"
+"常のディスプレイでは縮小して表示する"
+
+#: ../includes/theme-options.php:128
+msgid "Enable transition effects for drop-down menus"
+msgstr "ドロップダウンメニューのアニメーション効果を有効にする"
+
+#: ../includes/theme-options.php:136
+msgid "Hard crop post thumbnails"
+msgstr "アイキャッチをトリミングする"
+
+#: ../includes/theme-options.php:138
+msgid ""
+"After changing this option, it is recommended to recreate your thumbnails "
+"using a plugin like"
+msgstr ""
+"このオプションを変更した後、プラグインでサムネイルを再生成することをお勧めし"
+"ます。"
+
+#: ../includes/theme-options.php:145
+msgid "Open image links in a lightbox"
+msgstr "画像のリンクを Lightbox で開く"
+
+#: ../includes/theme-options.php:152
+msgid "Static Links"
+msgstr "静的なリンク"
+
+#: ../includes/theme-options.php:153
+msgid "AJAX Links"
+msgstr "AJAX リンク"
+
+#: ../includes/theme-options.php:154
+msgid "Infinite Scroll"
+msgstr "Infinite Scroll"
+
+#: ../includes/theme-options.php:164
+msgid "Numbered Pagination"
+msgstr "ページ番号付きのナビゲーション"
+
+#: ../includes/theme-options.php:170
+msgid "Facebook Page"
+msgstr "Facebook ページ"
+
+#: ../includes/theme-options.php:171
+msgid "Twitter Account"
+msgstr "Twitter アカウント"
+
+#: ../includes/theme-options.php:172
+msgid "Pinterest Board"
+msgstr "Pinterest ボード"
+
+#: ../includes/theme-options.php:173
+msgid "Flickr Account"
+msgstr "Flickr アカウント"
+
+#: ../includes/theme-options.php:174
+msgid "Vimeo Account"
+msgstr "Vimeo アカウント"
+
+#: ../includes/theme-options.php:175
+msgid "Youtube Channel"
+msgstr "Youtube チャンネル"
+
+#: ../includes/theme-options.php:176
+msgid "Google Plus Account"
+msgstr "Google Plus アカウント"
+
+#: ../includes/theme-options.php:177
+msgid "Dribble Account"
+msgstr "Dribble アカウント"
+
+#: ../includes/theme-options.php:178
+msgid "LinkedIn Account"
+msgstr "LinkedIn アカウント"
+
+#: ../includes/theme-options.php:227
+msgid "Full posts to display"
+msgstr "フルサイズで表示する"
+
+#: ../includes/theme-options.php:228
+msgid "Sticky Posts Slider"
+msgstr "先頭固定の投稿のスライダー"
+
+#: ../includes/theme-options.php:229
+msgid "Exclude Portfolio"
+msgstr "ポートフォリオを除外する"
+
+#: ../includes/theme-options.php:235 ../includes/theme-options.php:276
+#: ../includes/theme-options.php:284 ../includes/theme-options.php:305
+msgid "Full posts to display before grid"
+msgstr "件の記事を、グリッドの前にフルサイズで表示する"
+
+#: ../includes/theme-options.php:243
+msgid "Exclude Portfolio Category from main loop"
+msgstr "メインループからポートフォリオのカテゴリーを除外する"
+
+#: ../includes/theme-options.php:251
+msgid "Display a slider of sticky posts on the front page"
+msgstr "トップページで、先頭固定の記事をスライダーで表示する"
+
+#: ../includes/theme-options.php:257
+msgid "Portfolio Category"
+msgstr "ポートフォリオ用のカテゴリー"
+
+#: ../includes/theme-options.php:258
+msgid "Full posts to display on first page"
+msgstr "件の記事を、1 ページ目のグリッドの前にフルサイズで表示する"
+
+#: ../includes/theme-options.php:259
+msgid "Full posts to display on secondary pages"
+msgstr "件の記事を、2 ページ目のグリッドの前にフルサイズで表示する"
+
+#: ../includes/theme-options.php:297
+msgid "Show current location in archive pages"
+msgstr "表示中のアーカイブページの位置を表示する"
+
+#: ../includes/theme-options.php:311
+msgid "Social Bookmarks"
+msgstr "ソーシャルブックマーク"
+
+#: ../includes/theme-options.php:312
+msgid "Author Box"
+msgstr "著者情報のボックス"
+
+#: ../includes/theme-options.php:318
+msgid "Facebook Like"
+msgstr "Facebook いいねボタン"
+
+#: ../includes/theme-options.php:322
+msgid "Twitter Button"
+msgstr "ツイートボタン"
+
+#: ../includes/theme-options.php:326
+msgid "Google +1"
+msgstr "Google +1 ボタン"
+
+#: ../includes/theme-options.php:330
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: ../includes/theme-options.php:338
+msgid ""
+"Display a hcard microformatted box featuring author name, avatar and bio"
+msgstr ""
+"著者名、アバター画像、プロフィール情報を hcard 形式のマイクロフォーマットで表"
+"示します"
+
+#: ../includes/theme-options.php:344
+msgid "Copyright Notice"
+msgstr "コピーライトの掲示"
+
+#: ../includes/theme-options.php:345
+msgid "Credit Links"
+msgstr "クレジットのリンク"
+
+#: ../includes/theme-options.php:351
+msgid ""
+"Text to display in the footer copyright section (%year% = current year, "
+"%blogname% = website name)"
+msgstr ""
+"フッターのコピーライト部分に表示するテキスト (%year% = 今年, %blogname% = サ"
+"イト名)"
+
+#: ../includes/theme-options.php:359
+msgid "Show theme credit link"
+msgstr "テーマのクレジットのリンクを表示する"
+
+#: ../includes/theme-options.php:363
+msgid "Show author credit link"
+msgstr "テーマ作者のクレジットのリンクを表示する"
+
+#: ../includes/theme-options.php:367
+msgid "Show WordPress credit link"
+msgstr "WordPressのクレジットのリンクを表示する"
+
+#: ../includes/theme-options.php:373
+msgid "Background Colors"
+msgstr "背景色"
+
+#: ../includes/theme-options.php:377
+msgid "Page Background Color"
+msgstr "ページの背景色"
+
+#: ../includes/theme-options.php:378
+msgid "Menu Background Color"
+msgstr "メニューの背景色"
+
+#: ../includes/theme-options.php:379
+msgid "Dropdown Menus Background Color"
+msgstr "ドロップダウンメニューの背景色"
+
+#: ../includes/theme-options.php:380
+msgid "Site Location Background Color"
+msgstr "メニューの背景色"
+
+#: ../includes/theme-options.php:381
+msgid "Content Background Color"
+msgstr "メニューの背景色"
+
+#: ../includes/theme-options.php:382
+msgid "Post Meta Background Color"
+msgstr "ページの背景色"
+
+#: ../includes/theme-options.php:383
+msgid "Footer Widgets Background Color"
+msgstr "フッター用のウィジェットの文字色"
+
+#: ../includes/theme-options.php:384
+msgid "Footer Background Color"
+msgstr "ページの背景色"
+
+#: ../includes/theme-options.php:428
+msgid "Default Layout Template"
+msgstr "既定のレイアウトのテンプレート"
+
+#: ../includes/theme-options.php:429
+msgid "Grid Layout Dimensions"
+msgstr "グリッドレイアウトの大きさ"
+
+#: ../includes/theme-options.php:430
+msgid "Responsive Layout"
+msgstr "レスポンシブのレイアウト"
+
+#: ../includes/theme-options.php:431
+msgid "Custom CSS"
+msgstr "カスタム CSS"
+
+#: ../includes/theme-options.php:435
+msgid "Choose your preferred Layout"
+msgstr "好みのレイアウトを選択してください"
+
+#: ../includes/theme-options.php:439
+msgid "Content Columns"
+msgstr "コンテンツのカラム"
+
+#: ../includes/theme-options.php:440
+msgid "Boxes Sidebar Columns"
+msgstr "サイドバーのカラム"
+
+#: ../includes/theme-options.php:441
+msgid "Footer Sidebar Columns"
+msgstr "フッター内ウィジェットのカラム"
+
+#: ../includes/theme-options.php:445
+msgid "Hide Sidebar"
+msgstr "サイドバーを隠す"
+
+#: ../includes/theme-options.php:446
+msgid "Hide Footer Widgets Area"
+msgstr "フッターのウィジェットエリアを隠す"
+
+#: ../includes/theme-options.php:450
+msgid "Enter your custom CSS"
+msgstr "カスタム CSS を入力"
+
+#: ../includes/theme-options.php:509
+msgid "Note"
+msgstr "注釈"
+
+#: ../includes/theme-options.php:509
+msgid ""
+"If your layout contains a sidebar, the sidebar accounts for 1 column from "
+"the grid."
+msgstr ""
+"もしレイアウトにサイドバーが含まれている場合、サイドバーはグリッドの内の 1 カ"
+"ラムを占めます。"
+
+#: ../includes/theme-options.php:510
+msgid "Not all combinations of layouts and number of columns may be practical."
+msgstr "全てのレイアウトとカラム数の組み合わせは実用的ではないかもしれません。"
+
+#: ../includes/theme-options.php:536
+msgid "Hide Sidebar on Mobile Devices"
+msgstr "モバイル端末で閲覧したとき、サイドバーを隠す"
+
+#: ../includes/theme-options.php:544
+msgid "Hide Footer Widget Area on Mobile Devices"
+msgstr "モバイル端末で閲覧したとき、フッターウィジェットエリアを隠す"
+
+#: ../includes/theme-options.php:555
+msgid "Font Families"
+msgstr "フォント指定"
+
+#: ../includes/theme-options.php:556
+msgid "Font Sizes"
+msgstr "フォントサイズ"
+
+#: ../includes/theme-options.php:557
+msgid "Colors"
+msgstr "色"
+
+#: ../includes/theme-options.php:561
+msgid "Default Font Family"
+msgstr "デフォルトのフォント"
+
+#: ../includes/theme-options.php:562
+msgid "Headings Font Family"
+msgstr "見出しのフォント"
+
+#: ../includes/theme-options.php:563
+msgid "Body Copy Font Family"
+msgstr "本文のフォント"
+
+#: ../includes/theme-options.php:597
+msgid "Default Font Size"
+msgstr "デフォルトのフォントサイズ"
+
+#: ../includes/theme-options.php:598
+msgid "Default Line Height"
+msgstr "デフォルトの行間"
+
+#: ../includes/theme-options.php:599
+msgid "H1 Font Size"
+msgstr "H1 タグのフォントサイズ"
+
+#: ../includes/theme-options.php:600
+msgid "H2 Font Size"
+msgstr "H2 タグのフォントサイズ"
+
+#: ../includes/theme-options.php:601
+msgid "H3 Font Size"
+msgstr "H3 タグのフォントサイズ"
+
+#: ../includes/theme-options.php:602
+msgid "H4 Font Size"
+msgstr "H4 タグのフォントサイズ"
+
+#: ../includes/theme-options.php:603
+msgid "Headings Line Height"
+msgstr "見出しの行間"
+
+#: ../includes/theme-options.php:604
+msgid "Body Copy Font Size"
+msgstr "本文のフォントサイズ"
+
+#: ../includes/theme-options.php:605
+msgid "Body Copy Line Height"
+msgstr "本文の行間"
+
+#: ../includes/theme-options.php:606
+msgid "Body Copy Font Size on Mobile Devices"
+msgstr "モバイル端末の本文のフォントサイズ"
+
+#: ../includes/theme-options.php:607
+msgid "Body Copy Line Height on Mobile Devices"
+msgstr "モバイル端末の本文の行間"
+
+#: ../includes/theme-options.php:732
+msgid "Default Font Color"
+msgstr "デフォルトの文字色"
+
+#: ../includes/theme-options.php:733
+msgid "Headings Font Color"
+msgstr "ページタイトルの文字色"
+
+#: ../includes/theme-options.php:734
+msgid "Body Copy Font Color"
+msgstr "本文の文字色"
+
+#: ../includes/theme-options.php:735
+msgid "Links Color"
+msgstr "リンク色"
+
+#: ../includes/theme-options.php:736
+msgid "Links Hover Color"
+msgstr "マウスオーバー時のリンク色"
+
+#: ../includes/theme-options.php:737
+msgid "Navigation Links Color"
+msgstr "ナビゲーションのリンク色"
+
+#: ../includes/theme-options.php:738
+msgid "Navigation Links Hover Color"
+msgstr "ナビゲーションのマウスオーバー時のリンク色"
+
+#: ../includes/theme-options.php:739
+msgid "Sidebar Widgets Color"
+msgstr "サイドバー用のウィジェットの文字色"
+
+#: ../includes/theme-options.php:740
+msgid "Sidebar Widgets Title Color"
+msgstr "サイドバー用のウィジェットのタイトルの文字色"
+
+#: ../includes/theme-options.php:741
+msgid "Widgets Links Color"
+msgstr "ウィジェットのリンク色"
+
+#: ../includes/theme-options.php:742
+msgid "Footer Widgets Color"
+msgstr "フッター用のウィジェットの文字色"
+
+#: ../includes/theme-options.php:743
+msgid "Footer Widgets Title Color"
+msgstr "フッター用のウィジェットのタイトルの文字色"
+
+#: ../includes/theme-options.php:744
+msgid "Footer Color"
+msgstr "フッターの文字色"
+
+#: ../includes/theme-options.php:745
+msgid "Footer Links Color"
+msgstr "フッターのリンク色"
+
+#: ../includes/theme-options.php:819
+msgid "Archive Pages"
+msgstr "アーカイブページ"
+
+#: ../includes/theme-options.php:820
+msgid "Single Posts &amp; Pages"
+msgstr "投稿と固定ページ"
+
+#: ../includes/theme-options.php:821
+msgid "Other"
+msgstr "その他"
+
+#: ../includes/theme-options.php:825 ../includes/theme-options.php:861
+#: ../includes/theme-options.php:908
+msgid "Site Title Tag"
+msgstr "サイトタイトルを囲むタグ"
+
+#: ../includes/theme-options.php:826 ../includes/theme-options.php:862
+#: ../includes/theme-options.php:909
+msgid "Site Description Tag"
+msgstr "サイトの概要を囲むタグ"
+
+#: ../includes/theme-options.php:827 ../includes/theme-options.php:864
+#: ../includes/theme-options.php:910
+msgid "Post Title Tag"
+msgstr "投稿のタイトルを囲むタグ"
+
+#: ../includes/theme-options.php:863
+msgid "Site Location Title Tag"
+msgstr "表示中のページタイトルを囲むタグ"
+
+#: ../includes/theme-options.php:911
+msgid "Comments Title Tag"
+msgstr "コメントのタイトルを囲むタグ"
+
+#: ../includes/theme-options.php:912
+msgid "Reply Form Title Tag"
+msgstr "コメントフォームのタイトルを囲むタグ"
+
+#: ../includes/theme-options.php:966
+msgid "Widget Title Tag"
+msgstr "ウィジェットタイトルを囲むタグ"
