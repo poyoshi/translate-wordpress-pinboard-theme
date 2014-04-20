@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Pinboard\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-03 20:57+0900\n"
-"PO-Revision-Date: 2014-04-20 22:48+0900\n"
+"PO-Revision-Date: 2014-04-20 23:29+0900\n"
 "Last-Translator: YAT <yat@yat-net.com>\n"
 "Language-Team: One Designs <contact@onedesigns.com>\n"
 "Language: ja_JP\n"
@@ -460,7 +460,7 @@ msgstr "ドロップダウンメニューの背景色"
 
 #: ../includes/theme-options.php:380
 msgid "Site Location Background Color"
-msgstr "メニューの背景色"
+msgstr "サイトの現在地を表示するエリアの背景色"
 
 #: ../includes/theme-options.php:381
 msgid "Content Background Color"
@@ -468,7 +468,7 @@ msgstr "コンテンツの背景色"
 
 #: ../includes/theme-options.php:382
 msgid "Post Meta Background Color"
-msgstr "ページの背景色"
+msgstr "投稿メタ情報エリアの背景色"
 
 #: ../includes/theme-options.php:383
 msgid "Footer Widgets Background Color"
