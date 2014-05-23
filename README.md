@@ -1,7 +1,7 @@
 translate-wordpress-pinboard-theme
 ==================================
 
-This is Japan language file for Pinboard theme.
+This is Japanese language file for Pinboard theme.
 
 http://wordpress.org/themes/pinboard
 
